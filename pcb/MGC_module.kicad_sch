@@ -8547,6 +8547,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "150-MCP23018T-E/SSCT-ND"
+			(at 120.65 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "900b2340-8ad0-47a6-8625-568818fffac5")
 		)
@@ -9511,6 +9520,15 @@
 		)
 		(property "VendorId" "102967"
 			(at 144.78 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "102967"
+			(at 144.78 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10755,6 +10773,15 @@
 				(hide yes)
 			)
 		)
+		(property "HTL" "102960"
+			(at 152.4 160.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "645437c6-547b-40d7-b09c-a942075edf51")
 		)
@@ -11315,6 +11342,15 @@
 				(hide yes)
 			)
 		)
+		(property "HTL" "102967"
+			(at 137.16 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92174249-9de4-466f-a8fe-02c351785e43")
 		)
@@ -11515,7 +11551,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102934"
+		(property "HTL" "102902"
 			(at 102.87 129.54 90)
 			(effects
 				(font
@@ -12851,6 +12887,15 @@
 				(hide yes)
 			)
 		)
+		(property "HTL" "102967"
+			(at 139.7 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8405a8d4-924e-4d2f-8b73-45e585bb1305")
 		)
@@ -13870,6 +13915,15 @@
 				(hide yes)
 			)
 		)
+		(property "HTL" "102967"
+			(at 40.64 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7d18ce7a-1ad1-487e-8aa8-2a95ed9482e2")
 		)
@@ -14134,7 +14188,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102934"
+		(property "HTL" "102959"
 			(at 214.63 90.17 90)
 			(effects
 				(font
@@ -14314,6 +14368,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey" "WM6698CT-ND"
+			(at 200.66 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "f8988a33-56c8-47df-b0b6-84bab1b42794")
 		)
@@ -14478,6 +14541,15 @@
 		)
 		(property "VendorId" "102967"
 			(at 44.45 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "102987"
+			(at 44.45 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14928,7 +15000,7 @@
 				(hide yes)
 			)
 		)
-		(property "HTL" "102934"
+		(property "HTL" "102902"
 			(at 102.87 132.08 90)
 			(effects
 				(font
@@ -15033,6 +15105,15 @@
 			)
 		)
 		(property "Description" "Single NOR Gate, Low-Voltage CMOS"
+			(at 124.46 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "296-8742-1-ND"
 			(at 124.46 142.24 0)
 			(effects
 				(font
@@ -15229,6 +15310,15 @@
 		)
 		(property "VendorId" "102967"
 			(at 134.62 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "102967"
+			(at 134.62 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15632,6 +15722,15 @@
 				(hide yes)
 			)
 		)
+		(property "HTL" "102961"
+			(at 142.24 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d4c51ade-e874-4229-9f10-60e95ad9ce85")
 		)
@@ -15967,6 +16066,15 @@
 		)
 		(property "VendorId" "102967"
 			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "HTL" "102962"
+			(at 152.4 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16574,6 +16682,15 @@
 			)
 		)
 		(property "VendorId" "1965-ESP32-WROOM-32UE-N4CT-ND, WM12219-ND"
+			(at 74.93 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey" "1965-ESP32-WROOM-32UE-N4CT-ND, WM12219-ND"
 			(at 74.93 124.46 0)
 			(effects
 				(font
