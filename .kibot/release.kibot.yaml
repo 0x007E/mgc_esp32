@@ -65,8 +65,8 @@ outputs:
     options:
       output: 'ibom.%x'
       layer_view: 'FB'
-      # bom_view: 'left-right'
-      bom_view: 'top-bottom'
+      bom_view: 'left-right'
+      # bom_view: 'top-bottom'
       include_tracks: false
       show_fields: 'Value,Footprint,HTL,DigiKey'
 
